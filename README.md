@@ -18,9 +18,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma pagina de login e registro totalmente moderna. OBS: Foi permitido a utilização do mesmo como projeto para o meu portfólio.
+Uma pagina de login e registro totalmente moderna.
 
-- [Acesse o projeto finalizado, online](https://site-ayla.vercel.app/index.html)
+- [Acesse o projeto finalizado, online](https://login-page-theta-mauve.vercel.app/)
 
 
 
